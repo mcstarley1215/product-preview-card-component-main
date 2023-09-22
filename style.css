@@ -27,17 +27,16 @@ p {
   flex-direction: row;
   border-radius: 14px;
   margin-bottom: 1rem;
-  max-width: 37rem;
+  margin: 1em;
 }
 
 .product-content {
   margin: 2rem;
+  width: 15em;
 }
 
 img {
   width: 19rem;
-  max-height: 100%;
-  max-width: 20rem;
   border-top-left-radius: 14px;
   border-bottom-left-radius: 14px;
 }
